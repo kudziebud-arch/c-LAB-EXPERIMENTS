@@ -1,2 +1,2 @@
-# CPP-LAB-EXPERIMENTS
+# C-LAB-EXPERIMENTS
 practice que 
